@@ -1,4 +1,4 @@
-# 修改已创建的VPN连接<a name="zh-cn_topic_0085540256"></a>
+# 修改已创建的VPN连接<a name="vpn_04_0602"></a>
 
 ## 操作场景<a name="section46671949191618"></a>
 

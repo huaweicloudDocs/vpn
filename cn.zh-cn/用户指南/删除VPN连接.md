@@ -1,4 +1,4 @@
-# 删除VPN连接<a name="zh-cn_topic_0085547870"></a>
+# 删除VPN连接<a name="vpn_04_0603"></a>
 
 ## 操作场景<a name="section916191152718"></a>
 

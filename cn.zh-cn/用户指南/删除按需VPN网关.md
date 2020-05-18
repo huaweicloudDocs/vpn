@@ -1,4 +1,4 @@
-# 删除按需VPN网关<a name="zh-cn_topic_0085547869"></a>
+# 删除按需VPN网关<a name="vpn_04_0504"></a>
 
 ## 操作场景<a name="section13176183482415"></a>
 

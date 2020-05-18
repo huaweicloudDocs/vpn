@@ -1,4 +1,4 @@
-# 修改VPN网关<a name="zh-cn_topic_0085540255"></a>
+# 修改VPN网关<a name="vpn_04_0502"></a>
 
 ## 修改VPN网关带宽<a name="section1491033016469"></a>
 
